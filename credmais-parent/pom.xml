@@ -4,4 +4,9 @@
   <artifactId>credmais-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>../credmais-domain</module>
+  	<module>../credmais-service</module>
+  	<module>../credmais-web</module>
+  </modules>
 </project>
