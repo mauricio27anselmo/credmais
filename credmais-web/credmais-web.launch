@@ -9,7 +9,7 @@
 <booleanAttribute key="net.sourceforge.eclipsejetty.launcher.cache.server.enabled" value="true"/>
 <intAttribute key="net.sourceforge.eclipsejetty.launcher.configVersion" value="1"/>
 <booleanAttribute key="net.sourceforge.eclipsejetty.launcher.console.enabled" value="true"/>
-<stringAttribute key="net.sourceforge.eclipsejetty.launcher.context" value="/portal/credmais"/>
+<stringAttribute key="net.sourceforge.eclipsejetty.launcher.context" value="/portal/credmais/"/>
 <booleanAttribute key="net.sourceforge.eclipsejetty.launcher.customWebDefaults.enabled" value="false"/>
 <stringAttribute key="net.sourceforge.eclipsejetty.launcher.customWebDefaults.resource" value=""/>
 <booleanAttribute key="net.sourceforge.eclipsejetty.launcher.gracefulShutdown.override.enabled" value="false"/>
@@ -44,7 +44,7 @@
 <booleanAttribute key="net.sourceforge.eclipsejetty.launcher.scope.test.exclude" value="true"/>
 <intAttribute key="net.sourceforge.eclipsejetty.launcher.threadPool.limit.count" value="16"/>
 <booleanAttribute key="net.sourceforge.eclipsejetty.launcher.threadPool.limit.enabled" value="false"/>
-<stringAttribute key="net.sourceforge.eclipsejetty.launcher.webappdir" value="src/main/webapp"/>
+<stringAttribute key="net.sourceforge.eclipsejetty.launcher.webappdir" value="/src/main/webapp"/>
 <stringAttribute key="net.sourceforge.eclipsejetty.launcher.websocket.enabled" value="false"/>
 <stringAttribute key="org.eclipse.debug.ui.ATTR_CONSOLE_ENCODING" value="UTF-8"/>
 <listAttribute key="org.eclipse.debug.ui.favoriteGroups">
