@@ -3,9 +3,9 @@
   <parent>
     <groupId>br.com.credmais</groupId>
     <artifactId>credmais-parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
   </parent>
   <groupId>br.com.credmais</groupId>
   <artifactId>credmais-service</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
 </project>
